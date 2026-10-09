@@ -1,6 +1,6 @@
 # Shop Service
 
-[![CI](https://github.com/kumarnenavath5815-cpu/shop-service/actions/workflows/ci.yml/badge.svg)](https://github.com/kumarnenavath5815-cpu/shop-service/actions/workflows/ci.yml)
+[![CI](https://github.com/Nanikss/shop-service/actions/workflows/ci.yml/badge.svg)](https://github.com/Nanikss/shop-service/actions/workflows/ci.yml)
 
 A Spring Boot REST API for the order side of an e-commerce backend: **sign up → browse the catalog → fill a cart → check out → get paid (or not) through a payment webhook**. Most of my work has been on insurance platforms, where money has to add up exactly and outside systems retry and send the same message twice. This project applies the same rules to a shop: correct totals, no overselling, and callbacks that are safe to replay.
 
